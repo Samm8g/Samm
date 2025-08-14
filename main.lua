@@ -1,6 +1,6 @@
 function love.load()
     love.graphics.setBackgroundColor(0, 0, 0)
-    image = love.graphics.newImage("src/Samm.jpg")
+    image = love.graphics.newImage("src/Samm.png")
     imgWidth  = image:getWidth()
     imgHeight = image:getHeight()
 end
