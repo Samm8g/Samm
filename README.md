@@ -1,4 +1,4 @@
-# samm
+# Samm
 
 A simple game made with LÖVE.
 
@@ -25,7 +25,7 @@ You can find the latest releases [here](https://github.com/Samm8g/Samm/releases)
 To build the game from source, you will need to create a `.love` file. This can be done by zipping the contents of the project's root directory.
 
 ```bash
-zip -r samm.love .
+zip -r Samm.love .
 ```
 
 You can then run the `.love` file with LÖVE:
