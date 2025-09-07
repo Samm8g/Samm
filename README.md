@@ -38,4 +38,4 @@ For more information on packaging the game for different platforms, please refer
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0](LICENSE).
